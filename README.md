@@ -45,7 +45,7 @@ Steel Section 460UB82.1 Portal Frame Column
 <li> M*3 = 175
 <li> M*4 = 155  
 
-### Results:
+#### Results:
 <li> Buckling Moment = 165.1kNm  
 <li> Alpha_m = 1.4  
 
