@@ -31,7 +31,7 @@ Steel Section 460UB82.1 Portal Frame Column
 #### Section Properties:
 <li> Effective Length (mm), Le = 6000
 <li> Moment of Inertia about y-axis - Iy (mm4), Le = 6000
-<li> Warping Constant Iw (mm9)= 919000000000
+<li> Warping Constant Iw (mm6)= 919000000000
 <li> Torsion Constant, J = 701000
 <li> Shear Modulus of Elasticity 80x10^3 (MPa), G = 80000
 <li> Youngs Modulus of Elasticity, E (MPa) = 200000
