@@ -15,11 +15,11 @@ class alphaSInput:
 
 # Alpha Mo Calculation
 def buckling_moment():
-    mo = float(((math.pi**2*emod*iy)/(le**2)*((shearmod*torsionconst)+(math.pi**2*emod*iw)/(le**2)))**0.5)
-    return round(mo, 3)
+    mo = float(((((math.pi**2)*emod*iy)/(le**2))*((shearmod*torsionconst)+((math.pi**2)*emod*iw)/(le**2)))**0.5) / 10**6
+    return round(mo, 2)
 
 
-print("Buckling Moment, Mo = " + str(buckling_moment()))
+print("Buckling Moment, Mo = " + str(buckling_moment()) + "kNm")
 
 # Calculate Alpha M
 
