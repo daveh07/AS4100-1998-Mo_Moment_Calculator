@@ -26,7 +26,7 @@ Please feel free to add any contributions! This is a basic calculation for most 
 <li>Using Repl.it to deploy CLI App</li>
 <li>Creating user inputs and performing calculations based on input values</li>
 
-### Example Caluclation
+### Example Calculation
 Steel Section 460UB82.1 Portal Frame Column
 #### Section Properties:
 <li> Effective Length (mm), Le = 6000
