@@ -21,11 +21,6 @@ Create a virtual environment and run main.py
 ### NOTE:
 Please feel free to add any contributions! This is a basic calculation for most common cases of Alpha_S. Further code clauses to be added for alpha_m.  
 
-### What I Learned
-<li>Creating a command line script</li>
-<li>Using Repl.it to deploy CLI App</li>
-<li>Creating user inputs and performing calculations based on input values</li>
-
 ### Example Calculation
 Steel Section 460UB82.1 Portal Frame Column
 #### Section Properties:
